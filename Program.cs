@@ -29,6 +29,12 @@ namespace CTU_Vaccine_Development
             Console.WriteLine("Your Gender is: " + Gend);
             Console.WriteLine("The Date of birth is on: " + DOB);
             Console.WriteLine("They province that you're live is: " + Prov);
+<<<<<<< Updated upstream
+=======
+
+            //Changes
+            //Hello 
+>>>>>>> Stashed changes
         }
     }
 }
