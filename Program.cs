@@ -11,7 +11,7 @@ namespace CTU_Vaccine_Development
             Console.WriteLine("Enter your Surname");
             Console.WriteLine("Enter your First Name");
             Console.WriteLine("Enter Gender");
-            Console.WriteLine("Enter your Date Registration");
+            Console.WriteLine("Enter your Date of Birth");
             Console.WriteLine("Enter the province");
 
             // Create a string variable and get user input from the keyboard and store it in the variable
@@ -27,7 +27,7 @@ namespace CTU_Vaccine_Development
             Console.WriteLine("Surname is: " + SurN);
             Console.WriteLine("First Name is: " + FirstName);
             Console.WriteLine("Your Gender is: " + Gend);
-            Console.WriteLine("The Date of Registration is on: " + DOB);
+            Console.WriteLine("The Date of birth is on: " + DOB);
             Console.WriteLine("They province that you're live is: " + Prov);
         }
     }
